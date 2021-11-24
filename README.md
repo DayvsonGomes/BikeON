@@ -1,7 +1,9 @@
 #  BikeOn
 
 
-![Capa do Projeto](https://i.ibb.co/QpzGjjn/pngwing-com-2.png)
+<div align="center">
+<img src="https://github.com/DayvsonGomes/BikeON/blob/main/Bike.jpg" width="700px" />
+</div>
 
 # Sobre o Projeto
 
