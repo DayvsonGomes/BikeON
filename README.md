@@ -1,10 +1,7 @@
 #  BikeOn
 
 
-<div align="center">
-<img src="https://github.com/DayvsonGomes/BikeON/tree/main/imagens/Bike.jpg" width="700px" />
-</div>
-
+![](https://github.com/DayvsonGomes/BikeON/tree/main/imagens/Bike.jpg)
 # Sobre o Projeto
 
 Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
