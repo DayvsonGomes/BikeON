@@ -1,7 +1,7 @@
 #  BikeOn
 
 
-![](C:\Users\thiago.f.santos\Desktop\Anima\Thiago\Aulas\UNA\1 Semestre\Vida e Carreira\BikeON\imagens)
+![bike](./imagens/Bike.jpg)
 # Sobre o Projeto
 
 Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
