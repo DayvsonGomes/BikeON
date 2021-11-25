@@ -1,7 +1,7 @@
 #  BikeOn
 
 
-![](https://github.com/DayvsonGomes/BikeON/tree/main/imagens/Bike.jpg)
+![](C:\Users\thiago.f.santos\Desktop\Anima\Thiago\Aulas\UNA\1 Semestre\Vida e Carreira\BikeON\imagens)
 # Sobre o Projeto
 
 Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
