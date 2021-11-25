@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://github.com/DayvsonGomes/BikeON/blob/main/Bike.jpg" width="700px" />
+<img src="https://github.com/DayvsonGomes/BikeON/tree/main/imagens/Bike.jpg" width="700px" />
 </div>
 
 # Sobre o Projeto
