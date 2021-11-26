@@ -15,7 +15,7 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 * [Sobre](#sobre-o-projeto)
 
-Este projeto se trata da substituição do carro pela bicicleta, visando melhoria na saúde, na qualidade de vida e contribuindo também para dininuição da queima de gasses poluentes produzindo principalmente pela queima de combustiveis fósseis, como gasolina e óleo diesel.
+Este projeto se trata da substituição do carro pela bicicleta, visando melhoria na saúde, na qualidade de vida e contribuindo também para dininuição da queima de gasses poluentes produzido principalmente pela queima de combustiveis fósseis, como a gasolina e óleo diesel.
 
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
