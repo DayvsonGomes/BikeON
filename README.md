@@ -37,6 +37,21 @@ Em um mundo que não para de mudar, o uso da bicicleta como meio de transporte a
 Além de ser um meio de transporte barato e sustentável, a bicicleta também é ferramenta para quem quer apenas se exercitar. E seu uso, não importa para qual objetivo, só faz bem à saúde! Quer saber quais benefícios você pode ter ao pedalar?
 Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e controlar diabetes, controla a pressão arterial, melhora a coordenação motora, não prejudica as articulações entre outras.
 
+* [Objetivo do Projeto](#objetivo-projeto)
+
+   - Diminuir a emissão de CO2 na atmosfera;
+   - Mobilidade urbana eficiente;
+   - Saúde Pública;
+   - Bem estar das pessoas;
+   - Condicionamento físico e mental;
+   - Experimentação da cidade em outro nível de percepção;
+   - Diminuição da poluição visual nas cidades com cada vez menos carros em circulação;
+   - Atrai a atenção de políticas públicas para o investimento no ciclismo, como construção de ciclovias;
+   - Ajudar projetos sociais que estejam relacionado a prática do ciclismo;
+   - Projeto que seja atrativo tanto para grandes e pequenas empresas;
+
+* [Projeto](#projeto)
+
 * [Requisitos Funcionais](#requisitos-funcionais)
   - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
   - A empresa que aderir ao projeto, ganhará incentivos da prefeitura como redução de impostos, bem como um selo verde que contribui para tornar a cidade um lugar sustentável;
@@ -45,8 +60,8 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
   - Parte desse valor será convertido em ticket manutenção, ou seja, cada pessoa que aderir ganhará um valor pré-estabelecido para que seja feita a manutenção da sua bike (O         proprietário da bike que fica responsável por isso);
   - Funcionários que aderirem terá direito a abono de 3 dias no ano.
 
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
+* [Problemas ](#)
+
 * [Autores](#autores)
 
     [Ana Paula Carolina de Medeiros](https://github.com/Medeiros001)
@@ -64,6 +79,8 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 
 * [Licença](#licença)
+* [Tecnologias Usadas](#tecnologias-usadas)
+* [Contribuição](#contribuição)
 * [Agradecimentos](#agradecimentos)
 
 
