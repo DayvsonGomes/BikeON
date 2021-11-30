@@ -41,7 +41,15 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 
 * [Sumário](#índice/sumário)
+
 * [Requisitos Funcionais](#requisitos-funcionais)
+  - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
+  - A empresa que aderir ao projeto, ganhará incentivos da prefeitura como redução de impostos, bem como um selo verde que contribui para tornar a cidade um lugar sustentável;
+  - A quantidade de redução de imposto máxima que a empresa ganhará será 9,5% (Esse valor poderá variar dependendo da quantidade de pessoas que aderirem);
+  - Valor será convertido em políticas públicas na cidade, como construção de ciclovias e projetos sociais ligados a inserção da bike na vida das pessoas;
+  - Parte desse valor será convertido em ticket manutenção, ou seja, cada pessoa que aderir ganhará um valor pré-estabelecido para que seja feita a manutenção da sua bike (O         proprietário da bike que fica responsável por isso);
+  - Funcionários que aderirem terá direito a abono de 3 dias no ano.
+
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -49,6 +57,14 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 [Ana Paula Carolina de Medeiros](https://github.com/Medeiros001)
 
 [Dayvson Do Carmo Gomes](https://github.com/DayvsonGomes)
+
+[Pedro França](https://github.com/PedroFran2021)
+
+[Thiago Felipe Dos Santos](https://github.com/thiagonfss)
+
+[Vagner](https://github.com/Vagnerprojetos)
+
+[Weslei Filipe](https://github.com/Wesley-Filipe)
 
 
 
