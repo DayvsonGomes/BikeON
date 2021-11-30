@@ -37,6 +37,8 @@ Em um mundo que não para de mudar, o uso da bicicleta como meio de transporte a
 Além de ser um meio de transporte barato e sustentável, a bicicleta também é ferramenta para quem quer apenas se exercitar. E seu uso, não importa para qual objetivo, só faz bem à saúde! Quer saber quais benefícios você pode ter ao pedalar?
 Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e controlar diabetes, controla a pressão arterial, melhora a coordenação motora, não prejudica as articulações entre outras.
 
+![Bike](https://github.com/DayvsonGomes/BikeON/blob/2a7fb8f85a6fbe0c6d1e9e7eb42da8c5faff859c/WhatsApp%20Image%202021-11-30%20at%2017.27.50.jpeg)
+
 * [Objetivo do Projeto](#objetivo-projeto)
 
    - Diminuir a emissão de CO2 na atmosfera;
