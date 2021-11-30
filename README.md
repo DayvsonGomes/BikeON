@@ -54,17 +54,17 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 
-[Ana Paula Carolina de Medeiros](https://github.com/Medeiros001)
+    [Ana Paula Carolina de Medeiros](https://github.com/Medeiros001)
 
-[Dayvson Do Carmo Gomes](https://github.com/DayvsonGomes)
+    [Dayvson Do Carmo Gomes](https://github.com/DayvsonGomes)
 
-[Pedro França](https://github.com/PedroFran2021)
+    [Pedro França](https://github.com/PedroFran2021)
 
-[Thiago Felipe Dos Santos](https://github.com/thiagonfss)
+    [Thiago Felipe Dos Santos](https://github.com/thiagonfss)
 
-[Vagner](https://github.com/Vagnerprojetos)
+    [Vagner](https://github.com/Vagnerprojetos)
 
-[Weslei Filipe](https://github.com/Wesley-Filipe)
+    [Weslei Filipe](https://github.com/Wesley-Filipe)
 
 
 
