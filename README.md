@@ -60,7 +60,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Persona 4]()
 
-![Persona 5]()
+![Persona 5](https://github.com/DayvsonGomes/BikeON/blob/main/Persona%20Joe%20Peterson.png)
 
 * [Requisitos Funcionais](#requisitos-funcionais)
   - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
