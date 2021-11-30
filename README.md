@@ -52,7 +52,9 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 * [Projeto](#projeto)
 
-![Persona](https://github.com/DayvsonGomes/BikeON/blob/main/1.png)
+![Persona 1](https://github.com/DayvsonGomes/BikeON/blob/main/1.png)
+
+![Persona 2](https://github.com/DayvsonGomes/BikeON/blob/main/2.png)
 
 * [Requisitos Funcionais](#requisitos-funcionais)
   - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
