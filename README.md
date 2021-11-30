@@ -3,8 +3,8 @@
 
 ![bike](./imagens/Bike.jpg)
 # Sobre o Projeto
+Este projeto se trata da substituição do carro pela bicicleta, visando melhoria na saúde, na qualidade de vida e contribuindo também para dininuição da queima de gasses poluentes produzido principalmente pela queima de combustiveis fósseis, como a gasolina e óleo diesel.
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -14,14 +14,44 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 
 * [Sobre](#sobre-o-projeto)
+  
+Nos últimos anos, percebe-se o grande aumento da frota de veículos no Brasil, a exemplo disso pode citar a cidade de Belo Horizonte. Segundo a prefeitura da cidade, uma pesquisa realizada pelo (IBGE) em conjunto com a BHTrans, mostrou que a cidade tem 70 veículos para cada 100 habitantes, ou seja, isso significa que 70% da populção possui veículos e utilizam para realizar atividades diárias.
 
-Este projeto se trata da substituição do carro pela bicicleta, visando melhoria na saúde, na qualidade de vida e contribuindo também para dininuição da queima de gasses poluentes produzido principalmente pela queima de combustiveis fósseis, como a gasolina e óleo diesel.
+Problema de saúde pública e ao meio ambiente
+
+Os gases que formam a poluição dos carros, gerados nos motores a combustão interna, podem causar diversos problemas à saúde humana e ao meio ambiente. Os óxidos SO2 e o 
+NOx afetam o sistema respiratório e causam a chuva ácida, o CO reduz a capacidade de transporte de oxigênio no sangue e os materiais particulados causam alergias respiratórias e 
+são vetores (carregam) de outros poluentes (metais pesados, compostos orgânicos cancerígenos).
+
+MOBILIDADE URBANA: Bicicleta como meio de transporte
+
+Atualmente a bicicleta virou uma alternativa para quem deseja fugir do trânsito, buscando praticidade, rapidez, unindo a prática do esporte, preservação do meio ambiente na 
+redução na emissão de CO², além de diminuir os riscos de doenças cardiovasculares com população mais ativa. Por sua vez, o ciclista se depara com obstáculos que vão desde a falta de respeito dos condutores motorizados, até infraestrutura inadequada, como ciclovias e bicicletários. Segundo pesquisa realizada este ano pela ONG Transporte Ativo sobre o Perfil do Ciclista Brasileiro, 42,9% da população considera “rapidez e praticidade” o principal motivo para adotar a bicicleta ou a “magrela” como modo de locomoção. Em seguida, vêm por saúde (24,2%) e custo (19,6%).
+Por Luciana Botto – Rede Alese com informações Mobilize- Mobilidade Urbana Sustentável 
+Brasil
+
+Os benefícios que a Bike pode proporcionar 
+
+Em um mundo que não para de mudar, o uso da bicicleta como meio de transporte aumenta cada vez mais. Seja para fugir dos engarrafamentos ou para adotar um estilo de vida mais saudável, motivos não faltam para começar a pedalar.  
+
+Além de ser um meio de transporte barato e sustentável, a bicicleta também é ferramenta para quem quer apenas se exercitar. E seu uso, não importa para qual objetivo, só faz bem à saúde! Quer saber quais benefícios você pode ter ao pedalar?
+Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e controlar diabetes, controla a pressão arterial, melhora a coordenação motora, não prejudica as articulações entre outras.
+
+
+
 
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
+
+[Ana Paula Carolina de Medeiros](https://github.com/Medeiros001)
+
+[Dayvson Do Carmo Gomes](https://github.com/DayvsonGomes)
+
+
+
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
