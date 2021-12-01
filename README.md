@@ -1,17 +1,9 @@
 #  BikeOn
 
-
-![bike](./imagens/Bike.jpg)
-# Sobre o Projeto
-Este projeto se trata da substituição do carro pela bicicleta, visando melhoria na saúde, na qualidade de vida e contribuindo também para dininuição da queima de gasses poluentes produzido principalmente pela queima de combustiveis fósseis, como a gasolina e óleo diesel.
-
-
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+Uma ideia? Uma revolução? Ou apenas o necessário? 
+Sabemos que no mundo de hoje o **Sustentavel** deixou de ser uma opção e possou a ser uma necessidade. Como as empresas podem manter os **"recursos -renováveis"** se nao existir um planeta para usar tais recursos? Tendo em vista tais perguntas desenvolvemos esse projeto sustentável afim de reduzir a poluição do ar, o estresse com trânsito e melhorar a qualidade de vida, evitando obesidade e problemas cardíacos introduzindo na sua vida o **BIKEON.**
 
 # Índice/Sumário
-
 
 [Sobre](#Sobre-o-projeto)
 
@@ -41,14 +33,14 @@ Os gases que formam a poluição dos carros, gerados nos motores a combustão in
 NOx afetam o sistema respiratório e causam a chuva ácida, o CO reduz a capacidade de transporte de oxigênio no sangue e os materiais particulados causam alergias respiratórias e 
 são vetores (carregam) de outros poluentes (metais pesados, compostos orgânicos cancerígenos).
 
-MOBILIDADE URBANA: Bicicleta como meio de transporte
+**MOBILIDADE URBANA: Bicicleta como meio de transporte**
 
 Atualmente a bicicleta virou uma alternativa para quem deseja fugir do trânsito, buscando praticidade, rapidez, unindo a prática do esporte, preservação do meio ambiente na 
 redução na emissão de CO², além de diminuir os riscos de doenças cardiovasculares com população mais ativa. Por sua vez, o ciclista se depara com obstáculos que vão desde a falta de respeito dos condutores motorizados, até infraestrutura inadequada, como ciclovias e bicicletários. Segundo pesquisa realizada este ano pela ONG Transporte Ativo sobre o Perfil do Ciclista Brasileiro, 42,9% da população considera “rapidez e praticidade” o principal motivo para adotar a bicicleta ou a “magrela” como modo de locomoção. Em seguida, vêm por saúde (24,2%) e custo (19,6%).
 Por Luciana Botto – Rede Alese com informações Mobilize- Mobilidade Urbana Sustentável 
 Brasil
 
-Os benefícios que a Bike pode proporcionar 
+**Quais os benefícios que a Bike pode proporcionar?**
 
 Em um mundo que não para de mudar, o uso da bicicleta como meio de transporte aumenta cada vez mais. Seja para fugir dos engarrafamentos ou para adotar um estilo de vida mais saudável, motivos não faltam para começar a pedalar.  
 
