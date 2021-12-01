@@ -78,7 +78,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Persona 7](https://github.com/DayvsonGomes/BikeON/blob/main/8.png)
 
-![Persona ]()
+![Persona 8](https://github.com/DayvsonGomes/BikeON/blob/main/WhatsApp%20Image%202021-12-01%20at%2015.18.16.jpeg)
 
 ![Persona 9](https://github.com/DayvsonGomes/BikeON/blob/main/WhatsApp%20Image%202021-12-01%20at%2015.18.15.jpeg)
 
