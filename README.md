@@ -76,6 +76,14 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Persona 6](https://github.com/DayvsonGomes/BikeON/blob/498f755276b4681ea00c041d703fb2511a0086e7/WhatsApp%20Image%202021-11-30%20at%2019.24.34.jpeg)
 
+![Persona ]()
+
+![Persona ]()
+
+![Persona ]()
+
+![Persona ]()
+
 # Requisitos-funcionais
   - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
   - A empresa que aderir ao projeto, ganhará incentivos da prefeitura como redução de impostos, bem como um selo verde que contribui para tornar a cidade um lugar sustentável;
