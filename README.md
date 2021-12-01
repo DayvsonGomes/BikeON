@@ -75,6 +75,9 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
   - Funcionários que aderirem terá direito a abono de 3 dias no ano.
 
 * [Problemas ](#)
+  - O maior desafio desse projeto é converncer que sua aplicação será benéfico para as empresa, por isso incentivos e parcerias são essenciais. 
+  - E convencer ao publico alvo dos beneficios que esse novo estilo de vida trará para seu bem-estar e para o do planeta.
+  - A implementação do projeto em regiões montanhosas ou para pessoas que residem muito longe dos seus serviços.
 
 * [Autores](#autores)
 
@@ -96,15 +99,6 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Agradecimentos](#agradecimentos)
-
-
-# Tecnologias Usadas
-
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
