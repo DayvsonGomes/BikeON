@@ -14,13 +14,21 @@ Este projeto se trata da substituição do carro pela bicicleta, visando melhori
 
 
 [Sobre](#Sobre-o-projeto)
+
 [Objetivo do Projeto](#Objetivo-projeto)
+
 [Projeto](#Projeto)
+
 [Requisitos Funcionais](#Requisitos-funcionais)
+
 [Problemas](#Problemas)
+
 [Autores](#Autores)
+
 [Licença](#Licença)
+
 [Contribuição](#Contribuição)
+
 [Agradecimentos](#Agradecimentos)
 
 # Sobre-o-projeto
