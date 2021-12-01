@@ -82,7 +82,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Persona 9](https://github.com/DayvsonGomes/BikeON/blob/main/WhatsApp%20Image%202021-12-01%20at%2015.18.15.jpeg)
 
-![Persona ]()
+![Persona 10](https://github.com/DayvsonGomes/BikeON/blob/main/WhatsApp%20Image%202021-12-01%20at%2015.18.15%20(1).jpeg)
 
 # Requisitos-funcionais
   - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
