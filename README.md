@@ -80,7 +80,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Persona ]()
 
-![Persona ]()
+![Persona 9](https://github.com/DayvsonGomes/BikeON/blob/main/WhatsApp%20Image%202021-12-01%20at%2015.18.15.jpeg)
 
 ![Persona ]()
 
