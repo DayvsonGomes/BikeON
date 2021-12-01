@@ -13,7 +13,17 @@ Este projeto se trata da substituição do carro pela bicicleta, visando melhori
 # Índice/Sumário
 
 
-* [Sobre](#sobre-o-projeto)
+[Sobre](# Sobre-o-projeto)
+[Objetivo do Projeto](# Objetivo-projeto)
+[Projeto](# Projeto)
+[Requisitos Funcionais](# Requisitos-funcionais)
+[Problemas](# Problemas)
+[Autores](# Autores)
+[Licença](# Licença)
+[Contribuição](# Contribuição)
+[Agradecimentos](# Agradecimentos)
+
+# Sobre-o-projeto
   
 Nos últimos anos, percebe-se o grande aumento da frota de veículos no Brasil, a exemplo disso pode citar a cidade de Belo Horizonte. Segundo a prefeitura da cidade, uma pesquisa realizada pelo (IBGE) em conjunto com a BHTrans, mostrou que a cidade tem 70 veículos para cada 100 habitantes, ou seja, isso significa que 70% da populção possui veículos e utilizam para realizar atividades diárias.
 
@@ -39,7 +49,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Bike](https://github.com/DayvsonGomes/BikeON/blob/2a7fb8f85a6fbe0c6d1e9e7eb42da8c5faff859c/WhatsApp%20Image%202021-11-30%20at%2017.27.50.jpeg)
 
-* [Objetivo do Projeto](#objetivo-projeto)
+# Objetivo-projeto
 
    - Diminuir a emissão de CO2 na atmosfera;
    - Mobilidade urbana eficiente;
@@ -52,7 +62,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
    - Ajudar projetos sociais que estejam relacionado a prática do ciclismo;
    - Projeto que seja atrativo tanto para grandes e pequenas empresas;
 
-* [Projeto](#projeto)
+# Projeto
 
 ![Persona 1](https://github.com/DayvsonGomes/BikeON/blob/main/1.png)
 
@@ -66,7 +76,7 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
 ![Persona 6](https://github.com/DayvsonGomes/BikeON/blob/498f755276b4681ea00c041d703fb2511a0086e7/WhatsApp%20Image%202021-11-30%20at%2019.24.34.jpeg)
 
-* [Requisitos Funcionais](#requisitos-funcionais)
+# Requisitos-funcionais
   - O projeto deve abranger diversas classes sociais, desde pessoas mais necessitadas até mesmo pessoas com melhor poder aquisitivo;
   - A empresa que aderir ao projeto, ganhará incentivos da prefeitura como redução de impostos, bem como um selo verde que contribui para tornar a cidade um lugar sustentável;
   - A quantidade de redução de imposto máxima que a empresa ganhará será 9,5% (Esse valor poderá variar dependendo da quantidade de pessoas que aderirem);
@@ -74,12 +84,18 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
   - Parte desse valor será convertido em ticket manutenção, ou seja, cada pessoa que aderir ganhará um valor pré-estabelecido para que seja feita a manutenção da sua bike (O         proprietário da bike que fica responsável por isso);
   - Funcionários que aderirem terá direito a abono de 3 dias no ano.
 
-* [Problemas ](#)
+# Problemas
   - O maior desafio desse projeto é converncer que sua aplicação será benéfico para as empresa, por isso incentivos e parcerias são essenciais. 
   - E convencer ao publico alvo dos beneficios que esse novo estilo de vida trará para seu bem-estar e para o do planeta.
   - A implementação do projeto em regiões montanhosas ou para pessoas que residem muito longe dos seus serviços.
 
-* [Autores](#autores)
+
+
+# Contribuição
+
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+
+# Autores
 
     [Ana Paula Carolina de Medeiros](https://github.com/Medeiros001)
 
@@ -93,26 +109,11 @@ Entre os benefícios estão: emagrecimento, reduz o colesterol, ajuda prevenir e
 
     [Weslei Filipe](https://github.com/Wesley-Filipe)
 
-
-
-* [Licença](#licença)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Agradecimentos](#agradecimentos)
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
-
-# Autores
-
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
-
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Gostariamos de agradecer ao professor que nos incentivou com um trabalho que pudesse nos desenvolver como seres humanos e passarmos a pensar mais no meio **comum** em que vivemos. Agradecer a todos que doaram tempo para que as ideias do projeto se desenvolvessem e a todos da sala que contribuiram como ouvintes. 
  	
